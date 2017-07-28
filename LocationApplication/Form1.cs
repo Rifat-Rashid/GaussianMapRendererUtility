@@ -14,7 +14,6 @@ namespace LocationApplication
     {
         public Form1()
         {
-            
             InitializeComponent();
         }
     }
